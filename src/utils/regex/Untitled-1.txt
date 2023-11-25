@@ -1,0 +1,6 @@
+emailId: false,
+    userName: false,
+    password: false,
+    roleType: false,
+    groupType: false,
+    status: false,
