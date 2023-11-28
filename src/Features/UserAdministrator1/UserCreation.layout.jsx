@@ -68,7 +68,7 @@ const UserCereation = () => {
 
     const postResquest = async () => {
       const response = await axios.post(
-        "https://useradministratorbackend.onrender.com",
+        "https://useradministratorbackend.onrender.com/",
         userDetail
       );
       toast("User created SuccessFully ");
